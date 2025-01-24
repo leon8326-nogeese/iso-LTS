@@ -1,2 +1,2 @@
-# iso-LTS
-Nogeese Linux LTS ISO
+# Nogeese Linux LTS ISO
+Long Time Support Nogeese Linux ISO
